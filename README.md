@@ -5,7 +5,7 @@ Task-1 : Landing Page
 IDE : Visual Studio Code
 
 As per the task given, I designed a landing page for an online food ordering website named "FoodMitra" using HTML and CSS.
-Website published at https://riyatiwari1919.github.io/CODSOFTJUNE/
+Website published at https://riyatiwari1919.github.io/CODSOFTJUNE/Task_1(Landing%20Page)/index.html
 
 Task-2 : Portfolio
 IDE : Visual Studio Code
