@@ -17,7 +17,7 @@ Task-3 : Calculator
 IDE : Visual Studio Code
 
 As per the task given, I designed a Calculator using HTML, CSS and Javascript.
-Website published at https://riyatiwari1919.github.io/CODSOFTJUNE/
+Website published at https://riyatiwari1919.github.io/CODSOFTJUNE/Task_3(Calculator)/index.html
 
 
 
